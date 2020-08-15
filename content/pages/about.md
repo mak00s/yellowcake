@@ -1,6 +1,6 @@
 ---
 template: ComponentsPage
-slug: components
+slug: about
 title: なぜポイント？
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: ポイントの現状と当サイトの方針
