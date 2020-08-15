@@ -3,10 +3,10 @@ template: HomePage
 slug: ''
 title: PT 999
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: 'モバイル時代の誰でもできるポイント活用術'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: 誰でも毎日続けられるポイント活用方法をご紹介。
+  title: 誰でも毎日続けられるポイント活用方法
 ---
 
 誰でも毎日続けられるポイント活用方法をご紹介。
@@ -20,6 +20,7 @@ meta:
 - 自分だけでできる（紹介したり他人を巻き込まない）
 - 毎日続けられる
 - 余計な登録や申し込み、紹介はしない
+
 という方針で、普通の人が、余った時間で毎日少しずつ、でも極限まで効率よく、最大のポイントを獲得する方法を常に研究し、実践した結果も掲載しています。
 
 
