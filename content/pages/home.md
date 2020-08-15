@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: PT 999
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
@@ -9,22 +9,18 @@ meta:
   title: The Ultimate Gatsby Starter
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+誰でも毎日続けられるポイント活用方法をご紹介。
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# ポイントはますます重要に
 
-# Features
+モバイルやキャッシュレスの普及に伴って、ポイントが一気に一般化しました。種類や使える場所が増え、倍率も高くなったので、昔のように「ポイントは恥ずかしいのでやらない」「あまりたまらないので面倒」と無視するのは、貴重な収入の一部を無駄に捨てているようなもの。
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+当サイトでは、
+- 誰でもできる（専門知識やブログ開設は不要）
+- 自分だけでできる（紹介したり他人を巻き込まない）
+- 毎日続けられる
+- 余計な登録や申し込み、紹介はしない
+という方針で、普通の人が、余った時間で毎日少しずつ、でも極限まで効率よく、最大のポイントを獲得する方法を常に研究し、実践した結果も掲載しています。
 
-## Get started
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
