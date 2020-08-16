@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: about
-title: なぜポイント？
+title: ポイントが重要な理由
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: ポイントの現状と当サイトの方針
+subtitle: ポイントの現状とポイ太999の方針
 section1: >
   ### 生活の一部になったポイント
 
