@@ -50,7 +50,7 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/about/">なぜポイント？</NavLink>
-            <NavLink to="/default/">貯める方針を決める</NavLink>
+            <NavLink to="/plan/">貯める方針を決める</NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
