@@ -6,6 +6,7 @@ import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
 import Gallery from '../components/Gallery'
+import Start from '../components/Start'
 
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
@@ -46,6 +47,14 @@ export const ComponentsPageTemplate = ({
     <section className="section">
       <div className="container">
         <Accordion items={accordion} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <Start to="/plan/">
+          まず貯める方針を決める
+        </Start>
       </div>
     </section>
   </main>
