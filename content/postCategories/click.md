@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-slug: post-categories/click
+slug: by/click
 title: 毎日クリック
 subtitle: '毎日クリックしてポイントをGET'
 featuredImage: >-

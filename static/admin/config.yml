@@ -8,15 +8,13 @@ display_url: https://pt999.click/ # This url will display in the top-right of th
 publish_mode: editorial_workflow
 
 media_library:
-  name: uploadcare
+  name: cloudinary
   config:
-    publicKey: a73a170cb5cdef662983
-    multiple: false
-    tabs: 'file camera url facebook gdrive'
-    effects: 'crop,rotate,enhance,grayscale'
-    imageShrink: '2000x2000'
-    previewStep: true
-    clearable: true
+    cloud_name: pt999
+    api_key: 152335187964642
+    default_transformations:
+      - - fetch_format: auto
+          quality: auto
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
@@ -114,8 +112,8 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/about.md'
-        label: 'About Page'
+      - file: 'content/pages/why.md'
+        label: 'Why Page'
         name: 'components-page'
         fields:
           - {
