@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Point 999',
-    siteUrl: 'https://pt999click.netlify.app/'
+    title: 'Poita 999',
+    siteUrl: 'https://pt999.click/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -42,7 +42,7 @@ module.exports = {
       }
     },
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: 'gatsby-plugin-manifest',
       options: {
         name: 'yellowcake',
         short_name: 'yellowcake',
@@ -90,14 +90,14 @@ module.exports = {
               linkImagesToOriginal: false
             }
           },
-          `gatsby-remark-responsive-iframe`
+          'gatsby-remark-responsive-iframe'
         ]
       }
     },
 
     // css (replace with gatsby-plugin-sass for v2)
     {
-      resolve: `gatsby-plugin-sass`,
+      resolve: 'gatsby-plugin-sass',
       options: {
         postCssPlugins: [
           postcssPresetEnv({
@@ -107,10 +107,10 @@ module.exports = {
       }
     },
     {
-      resolve: `gatsby-plugin-postcss`,
+      resolve: 'gatsby-plugin-postcss',
       options: {
         postCssPlugins: [
-          require(`postcss-preset-env`)({
+          require('postcss-preset-env')({
             browsers: '> 0.5%, last 2 versions, ie 11'
           })
         ]
