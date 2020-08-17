@@ -46,7 +46,7 @@ export const ComponentsPageTemplate = ({
     <section className="section">
       <div className="container">
         <Start to="/plan/">
-          まず貯める方針を決める
+          効率よく貯めるコツ
         </Start>
       </div>
     </section>

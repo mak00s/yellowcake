@@ -14,8 +14,8 @@ class Start extends Component {
     return (
       <Fragment>
         <div className="taCenter">
-          <h3>次はこちらへ</h3>
-          <Link to={`${to}`}>
+          <h3>次はこちら</h3>
+            <Link to={`${to}`}>
             <div class="Button">{children}</div>
           </Link>
         </div>

@@ -51,7 +51,7 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/why/">なぜポイント？</NavLink>
             <NavLink to="/plan/">貯めるコツ</NavLink>
-            <NavLink to="/plan/list/">貯め方を選ぶ</NavLink>
+            <NavLink to="/calendar/">おすすめプラン</NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
@@ -67,10 +67,10 @@ export class Navigation extends Component {
                 }`}
                 onClick={() => this.toggleSubNav('posts')}
               >
-                毎日貯める方法
+                毎日Pを増やす方法
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
-                    全記事(日付順)
+                    目次（日付順）
                   </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink

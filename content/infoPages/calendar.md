@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
-slug: plan/calendar
-title: This is a test info page
+slug: calendar
+title: 毎日のPointカレンダー
 featuredImage: >-
   https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
 meta:
@@ -9,8 +9,18 @@ meta:
   title: test meta title
 ---
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
+** 毎日
+00:00 
+02:00 モッピーのガチャ
+04:00 げん玉ポイントの森（昼）
+06:00 チラシ
+10:00 au PAYの動画
+12:00 TポイントXシュフーの動画
+16:00 げん玉ポイントの森（夜）
+20:00 チラシ
 
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this.
 
-**It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
+** 毎週
+
+** 毎月
+

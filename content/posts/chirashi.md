@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: City
+title: アプリのチラシで貯める
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/43614a0b-9a59-4a08-ad5c-428574b3a2c4/'
@@ -10,7 +10,7 @@ excerpt: >-
   est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
-  - category: News
+  - category: 2.クリックで
 meta:
   canonicalLink: ''
   description: test meta description

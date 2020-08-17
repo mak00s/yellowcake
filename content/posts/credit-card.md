@@ -1,13 +1,12 @@
 ---
 template: SinglePost
-title: Cat
+title: 貯まるクレジットカード
 status: Published
 date: '2018-03-28'
-featuredImage: >-
-  https://ucarecdn.com/69bcae44-f555-4b56-b08e-bd0f2013654a/-/crop/1634x1690/0,434/-/preview/
+featuredImage: 'https://ucarecdn.com/57002902-e8b3-4315-9995-beb637b29128/'
 excerpt: This is an excerpt of Post Two
 categories:
-  - category: Updates
+  - category: 1.買う時に
 meta:
   description: test meta description
   title: test meta title

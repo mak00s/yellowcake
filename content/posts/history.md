@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Sign
+title: ポイント残高を調べる
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
@@ -10,7 +10,7 @@ excerpt: >-
   est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
-  - category: News
+  - category: 4.交換で
 meta:
   canonicalLink: ''
   description: test meta description

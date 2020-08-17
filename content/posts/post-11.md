@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Yellow Van
+title: 貯まるアンケートを選ぶ
 status: Published
 date: '2018-05-25'
 featuredImage: 'https://ucarecdn.com/a7f36998-7a41-4a63-b0b1-91ef46cd638b/'
@@ -9,6 +9,8 @@ excerpt: >-
   appear properly on your website. This text is going to be replaced once the
   website is completed. You are currently reading text that is written in
   English, not any other language.
+categories:
+  - category: 3.アンケートで
 meta:
   description: test meta description
   title: test meta title
