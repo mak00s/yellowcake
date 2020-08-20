@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: ポイ太999
+title: Click 999pt
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: 誰でも毎日続けられるポイント活用方法をご紹介
 meta:

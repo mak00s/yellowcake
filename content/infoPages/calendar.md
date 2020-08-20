@@ -1,7 +1,8 @@
 ---
 template: DefaultPage
 slug: calendar
-title: 毎日のPointカレンダー
+title: 効率良く貯める手順
+subtitle: 毎日確実に繰り返して最大のポイントをゲット
 featuredImage: >-
   https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
 meta:
@@ -9,7 +10,10 @@ meta:
   title: test meta title
 ---
 
-** 毎日
+毎日どこで何をするか、時間割を作っておくと、スキマ時間ができた時に迷わず、漏れなくポイントを貯められるようになります。前提となる方針はこちら「[貯めるコツ](/plan/)」
+
+## 毎日
+
 00:00 
 02:00 モッピーのガチャ
 04:00 げん玉ポイントの森（昼）
