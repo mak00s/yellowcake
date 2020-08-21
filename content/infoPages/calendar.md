@@ -6,7 +6,7 @@ subtitle: 毎日確実に繰り返して最大のポイントをゲット
 featuredImage: >-
   https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
 meta:
-  description: test meta description
+  description: ポイントを毎日効率よく貯める手順カレンダー
   title: test meta title
 ---
 
