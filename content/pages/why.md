@@ -5,7 +5,7 @@ title: なぜポイントが重要？
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: ポイントの現状とこのサイトの方針
 meta:
-  description: This is a meta description.
+  description: ポイントの運用と投資が銀行預金やマイル、ネット証券よりも楽で確実な理由
   title: ポイントが重要な理由
 
 section1: >
