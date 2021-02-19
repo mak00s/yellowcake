@@ -1,3 +1,17 @@
+## 3.0.3 - 2020-10-16
+
+Fix es lint from Nav component.
+
+## 3.0.2 - 2020-10-15
+
+Fix es lint from Image and Gallery component.
+
+## 3.0.0 - 2020-09-25
+
+Remove es lint from some components
+Update node .nvmrc to 14 for build step.
+Successful Upgrade to latest packages.
+
 ## 2.0.14 - 2020-07-16
 
 Remove instagram feed component

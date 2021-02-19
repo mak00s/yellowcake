@@ -60,7 +60,6 @@ class Image extends React.Component {
       secSet = '',
       fullSrc,
       smallSrc,
-      onClick,
       title = '',
       alt = '',
       lazy = true
@@ -122,7 +121,6 @@ class Image extends React.Component {
                   src={this.state.isIntersecting ? fullSrc : ''}
                   srcSet={this.state.isIntersecting ? secSet : ''}
                   sizes={'100vw'}
-                  onClick={onClick}
                   title={title}
                   alt={alt}
                 />
@@ -152,7 +150,6 @@ class Image extends React.Component {
                 src={fullSrc}
                 srcSet={secSet}
                 sizes={'100vw'}
-                onClick={onClick}
                 title={title}
                 alt={alt}
               />
